@@ -5,6 +5,8 @@ This repository is designed to help beginners understand and utilize the many po
 
 There are countless libraries available for data science in Python, each with its own unique set of features and capabilities. To help you get started, we've compiled a list of some of the most popular and widely-used libraries in the field.
 
+Seaborn is a library for creating statistical visualizations in Python. It is built on top of the popular data visualization library Matplotlib and provides a high-level interface for drawing attractive and informative statistical graphics. One of the key features of Seaborn is its ability to easily plot regression models. It can fit and plot linear regression models, as well as more complex models such as generalized additive models and robust regression. Seaborn also provides functions for visualizing univariate and bivariate distributions, and for comparing the relationships between multiple variables.
+
 NumPy is a library for working with large, multi-dimensional arrays and matrices of numerical data. It provides functions for performing mathematical operations on these arrays, including linear algebra, statistical analysis, and more.
 
 SciPy is a library built on top of NumPy that provides additional functionality for scientific computing, including optimization, integration, interpolation, and more.
